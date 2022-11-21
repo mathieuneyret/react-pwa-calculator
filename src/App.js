@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import Button from "./Components/Button";
+import Calculatrice from "./Components/Calculatrice";
 
 function App() {
   return (
     <div className="App">
-      <Button message={"Coucou"}/>
+      <Calculatrice/>
     </div>
   );
 }
